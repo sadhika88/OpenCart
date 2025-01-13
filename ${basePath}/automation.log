@@ -1,0 +1,44 @@
+15:54:47:768 [main] INFO  TestCases.TC_002_LOGinTest - ***** Finished  TC002_Login********
+15:56:56:401 [main] INFO  TestCases.TC001_AccountRegistration - **********TC001_AccountregistrationAccount***************
+15:56:56:707 [main] INFO  TestCases.TC001_AccountRegistration - **********Cliked on My Account link***************
+15:56:57:739 [main] INFO  TestCases.TC001_AccountRegistration - **********Clicked on Register link***************
+15:56:57:741 [main] INFO  TestCases.TC001_AccountRegistration - **********Providing Customer details***************
+15:56:59:678 [main] INFO  TestCases.TC001_AccountRegistration - Validating expacted message.......
+15:56:59:765 [main] INFO  TestCases.TC001_AccountRegistration - Test passed
+15:56:59:765 [main] INFO  TestCases.TC001_AccountRegistration - ***** Finished TC001_AccountRegistrationTest *****
+15:59:25:599 [main] INFO  TestCases.TC001_AccountRegistration - **********TC001_AccountregistrationAccount***************
+15:59:26:030 [main] INFO  TestCases.TC001_AccountRegistration - **********Cliked on My Account link***************
+15:59:26:851 [main] INFO  TestCases.TC001_AccountRegistration - **********Clicked on Register link***************
+15:59:26:851 [main] INFO  TestCases.TC001_AccountRegistration - **********Providing Customer details***************
+15:59:28:511 [main] INFO  TestCases.TC001_AccountRegistration - Validating expacted message.......
+15:59:28:593 [main] INFO  TestCases.TC001_AccountRegistration - Test passed
+15:59:28:593 [main] INFO  TestCases.TC001_AccountRegistration - ***** Finished TC001_AccountRegistrationTest *****
+15:59:33:968 [main] INFO  TestCases.TC_002_LOGinTest - *****Starting TC002_Login********
+15:59:36:080 [main] INFO  TestCases.TC_002_LOGinTest - ***** Finished  TC002_Login********
+16:29:12:580 [main] INFO  TestCases.TC001_AccountRegistration - **********TC001_AccountregistrationAccount***************
+16:29:12:772 [main] INFO  TestCases.TC001_AccountRegistration - **********Cliked on My Account link***************
+16:29:13:505 [main] INFO  TestCases.TC001_AccountRegistration - **********Clicked on Register link***************
+16:29:13:508 [main] INFO  TestCases.TC001_AccountRegistration - **********Providing Customer details***************
+16:29:14:914 [main] INFO  TestCases.TC001_AccountRegistration - Validating expacted message.......
+16:29:14:973 [main] INFO  TestCases.TC001_AccountRegistration - Test passed
+16:29:14:973 [main] INFO  TestCases.TC001_AccountRegistration - ***** Finished TC001_AccountRegistrationTest *****
+16:29:18:909 [main] INFO  TestCases.TC_002_LOGinTest - *****Starting TC002_Login********
+16:29:21:044 [main] INFO  TestCases.TC_002_LOGinTest - ***** Finished  TC002_Login********
+16:46:14:623 [main] INFO  TestCases.TC001_AccountRegistration - **********TC001_AccountregistrationAccount***************
+16:46:14:841 [main] INFO  TestCases.TC001_AccountRegistration - **********Cliked on My Account link***************
+16:46:15:801 [main] INFO  TestCases.TC001_AccountRegistration - **********Clicked on Register link***************
+16:46:15:801 [main] INFO  TestCases.TC001_AccountRegistration - **********Providing Customer details***************
+16:46:17:570 [main] INFO  TestCases.TC001_AccountRegistration - Validating expacted message.......
+16:46:17:640 [main] INFO  TestCases.TC001_AccountRegistration - Test passed
+16:46:17:640 [main] INFO  TestCases.TC001_AccountRegistration - ***** Finished TC001_AccountRegistrationTest *****
+16:46:21:444 [main] INFO  TestCases.TC_002_LOGinTest - *****Starting TC002_Login********
+16:46:23:821 [main] INFO  TestCases.TC_002_LOGinTest - ***** Finished  TC002_Login********
+16:48:33:975 [main] INFO  TestCases.TC001_AccountRegistration - **********TC001_AccountregistrationAccount***************
+16:48:35:139 [main] INFO  TestCases.TC001_AccountRegistration - **********Cliked on My Account link***************
+16:48:36:207 [main] INFO  TestCases.TC001_AccountRegistration - **********Clicked on Register link***************
+16:48:36:210 [main] INFO  TestCases.TC001_AccountRegistration - **********Providing Customer details***************
+16:48:38:656 [main] INFO  TestCases.TC001_AccountRegistration - Validating expacted message.......
+16:48:38:743 [main] INFO  TestCases.TC001_AccountRegistration - Test passed
+16:48:38:743 [main] INFO  TestCases.TC001_AccountRegistration - ***** Finished TC001_AccountRegistrationTest *****
+16:48:48:700 [main] INFO  TestCases.TC_002_LOGinTest - *****Starting TC002_Login********
+16:48:51:513 [main] INFO  TestCases.TC_002_LOGinTest - ***** Finished  TC002_Login********

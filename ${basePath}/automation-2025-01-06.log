@@ -1,0 +1,40 @@
+21:21:12:126 [main] INFO  TestCases.TC003_LogunDDT - ********TC003_LogunDDT*********
+21:21:15:629 [main] INFO  TestCases.TC003_LogunDDT - ********Finished TC003_LogunDDT*********
+21:21:15:641 [main] INFO  TestCases.TC003_LogunDDT - ********TC003_LogunDDT*********
+21:21:18:224 [main] INFO  TestCases.TC003_LogunDDT - ********Finished TC003_LogunDDT*********
+21:21:18:229 [main] INFO  TestCases.TC003_LogunDDT - ********TC003_LogunDDT*********
+21:21:22:220 [main] INFO  TestCases.TC003_LogunDDT - ********Finished TC003_LogunDDT*********
+21:21:22:223 [main] INFO  TestCases.TC003_LogunDDT - ********TC003_LogunDDT*********
+21:21:26:651 [main] INFO  TestCases.TC003_LogunDDT - ********TC003_LogunDDT*********
+21:21:31:405 [main] INFO  TestCases.TC003_LogunDDT - ********Finished TC003_LogunDDT*********
+21:21:31:410 [main] INFO  TestCases.TC003_LogunDDT - ********TC003_LogunDDT*********
+21:21:43:706 [main] ERROR TestCases.TC003_LogunDDT - Exception occurred: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='list-group']//a[text()='Logout']"}
+  (Session info: chrome=131.0.6778.205)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6596163b9bda187442ee8ddf52c98afe, findElement {using=xpath, value=//div[@class='list-group']//a[text()='Logout']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\Dell\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60841}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60841/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6596163b9bda187442ee8ddf52c98afe
+22:23:12:342 [main] INFO  TestCases.TC003_LogunDDT - ********TC003_LogunDDT*********
+22:23:15:387 [main] INFO  TestCases.TC003_LogunDDT - ********Finished TC003_LogunDDT*********
+22:23:15:393 [main] INFO  TestCases.TC003_LogunDDT - ********TC003_LogunDDT*********
+22:23:18:337 [main] INFO  TestCases.TC003_LogunDDT - ********Finished TC003_LogunDDT*********
+22:23:18:340 [main] INFO  TestCases.TC003_LogunDDT - ********TC003_LogunDDT*********
+22:23:20:611 [main] INFO  TestCases.TC003_LogunDDT - ********Finished TC003_LogunDDT*********
+22:23:20:615 [main] INFO  TestCases.TC003_LogunDDT - ********TC003_LogunDDT*********
+22:23:23:871 [main] INFO  TestCases.TC003_LogunDDT - ********TC003_LogunDDT*********
+22:23:25:861 [main] INFO  TestCases.TC003_LogunDDT - ********Finished TC003_LogunDDT*********
+22:23:25:862 [main] INFO  TestCases.TC003_LogunDDT - ********TC003_LogunDDT*********
+22:23:37:347 [main] ERROR TestCases.TC003_LogunDDT - Exception occurred: no such element: Unable to locate element: {"method":"xpath","selector":"//div[@class='list-group']//a[text()='Logout']"}
+  (Session info: chrome=131.0.6778.205)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [3e42dd0d64a40aa6cee480170eaf8d36, findElement {value=//div[@class='list-group']//a[text()='Logout'], using=xpath}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.205, chrome: {chromedriverVersion: 131.0.6778.204 (52183f9e99a..., userDataDir: C:\Users\Dell\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62305}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:62305/devtoo..., se:cdpVersion: 131.0.6778.205, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 3e42dd0d64a40aa6cee480170eaf8d36
+22:26:13:182 [main] INFO  TestCases.TC003_LogunDDT - ********TC003_LogunDDT*********
+22:26:15:492 [main] INFO  TestCases.TC003_LogunDDT - ********Finished TC003_LogunDDT*********

@@ -1,0 +1,49 @@
+22:31:41:445 [main] INFO  TestCases.TC003_LogunDDT - ********Finished TC003_LogunDDT*********
+22:31:41:456 [main] INFO  TestCases.TC003_LogunDDT - ********TC003_LogunDDT*********
+22:31:43:883 [main] INFO  TestCases.TC003_LogunDDT - ********Finished TC003_LogunDDT*********
+22:31:43:892 [main] INFO  TestCases.TC003_LogunDDT - ********TC003_LogunDDT*********
+22:31:46:703 [main] INFO  TestCases.TC003_LogunDDT - ********TC003_LogunDDT*********
+22:31:49:081 [main] INFO  TestCases.TC003_LogunDDT - ********Finished TC003_LogunDDT*********
+22:31:49:082 [main] INFO  TestCases.TC003_LogunDDT - ********TC003_LogunDDT*********
+22:32:01:459 [main] ERROR TestCases.TC003_LogunDDT - Exception occurred: no such element: Unable to locate element: {"method":"link text","selector":"Logout"}
+  (Session info: chrome=131.0.6778.206)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.27.0', revision: 'd6e718d134'
+System info: os.name: 'Windows 11', os.arch: 'amd64', os.version: '10.0', java.version: '17.0.8.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [b61c9babf9ca7061c6f8c2dad48d9127, findElement {using=link text, value=Logout}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 131.0.6778.206, chrome: {chromedriverVersion: 131.0.6778.264 (2d05e315153..., userDataDir: C:\Users\Dell\AppData\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64129}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:64129/devtoo..., se:cdpVersion: 131.0.6778.206, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b61c9babf9ca7061c6f8c2dad48d9127
+22:38:55:161 [main] INFO  TestCases.TC003_LogunDDT - ********TC003_LogunDDT*********
+22:38:58:070 [main] INFO  TestCases.TC003_LogunDDT - ********Finished TC003_LogunDDT*********
+22:38:58:076 [main] INFO  TestCases.TC003_LogunDDT - ********TC003_LogunDDT*********
+22:39:00:640 [main] INFO  TestCases.TC003_LogunDDT - ********Finished TC003_LogunDDT*********
+22:39:00:642 [main] INFO  TestCases.TC003_LogunDDT - ********TC003_LogunDDT*********
+22:39:03:647 [main] INFO  TestCases.TC003_LogunDDT - ********Finished TC003_LogunDDT*********
+22:39:03:648 [main] INFO  TestCases.TC003_LogunDDT - ********TC003_LogunDDT*********
+22:39:06:404 [main] INFO  TestCases.TC003_LogunDDT - ********TC003_LogunDDT*********
+22:39:08:652 [main] INFO  TestCases.TC003_LogunDDT - ********Finished TC003_LogunDDT*********
+22:39:08:654 [main] INFO  TestCases.TC003_LogunDDT - ********TC003_LogunDDT*********
+22:54:31:322 [main] INFO  TestCases.TC003_LogunDDT - ********TC003_LogunDDT*********
+22:54:44:379 [main] INFO  TestCases.TC003_LogunDDT - ********TC003_LogunDDT*********
+22:54:44:388 [main] INFO  TestCases.TC003_LogunDDT - ********TC003_LogunDDT*********
+22:54:44:397 [main] INFO  TestCases.TC003_LogunDDT - ********TC003_LogunDDT*********
+22:54:44:407 [main] INFO  TestCases.TC003_LogunDDT - ********TC003_LogunDDT*********
+22:54:44:415 [main] INFO  TestCases.TC003_LogunDDT - ********TC003_LogunDDT*********
+22:55:04:285 [main] INFO  TestCases.TC003_LogunDDT - ********TC003_LogunDDT*********
+22:55:06:750 [main] INFO  TestCases.TC003_LogunDDT - ********Finished TC003_LogunDDT*********
+22:55:06:761 [main] INFO  TestCases.TC003_LogunDDT - ********TC003_LogunDDT*********
+22:55:09:224 [main] INFO  TestCases.TC003_LogunDDT - ********Finished TC003_LogunDDT*********
+22:55:09:230 [main] INFO  TestCases.TC003_LogunDDT - ********TC003_LogunDDT*********
+22:55:11:736 [main] INFO  TestCases.TC003_LogunDDT - ********Finished TC003_LogunDDT*********
+22:55:11:741 [main] INFO  TestCases.TC003_LogunDDT - ********TC003_LogunDDT*********
+22:55:14:207 [main] INFO  TestCases.TC003_LogunDDT - ********TC003_LogunDDT*********
+22:55:16:829 [main] INFO  TestCases.TC003_LogunDDT - ********Finished TC003_LogunDDT*********
+22:55:16:834 [main] INFO  TestCases.TC003_LogunDDT - ********TC003_LogunDDT*********
+22:58:34:271 [main] INFO  TestCases.TC003_LogunDDT - ********TC003_LogunDDT*********
+22:58:36:874 [main] INFO  TestCases.TC003_LogunDDT - ********Finished TC003_LogunDDT*********
+22:58:36:891 [main] INFO  TestCases.TC003_LogunDDT - ********TC003_LogunDDT*********
+22:58:39:573 [main] INFO  TestCases.TC003_LogunDDT - ********Finished TC003_LogunDDT*********
+22:58:39:580 [main] INFO  TestCases.TC003_LogunDDT - ********TC003_LogunDDT*********
+22:58:41:750 [main] INFO  TestCases.TC003_LogunDDT - ********Finished TC003_LogunDDT*********
+22:58:41:750 [main] INFO  TestCases.TC003_LogunDDT - ********TC003_LogunDDT*********
